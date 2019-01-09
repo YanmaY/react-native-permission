@@ -1,5 +1,5 @@
 {
-  "name": "react-native-permission",
+  "name": "react-native-apply-permission",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,15 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": {
+    "name": "YanmaY",
+    "email": "dotnetor@163.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YanmaY/react-native-permission.git"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   },
